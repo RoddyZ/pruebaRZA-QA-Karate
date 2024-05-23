@@ -1,0 +1,8 @@
+1.- El framework de prueba Karate es una alternativa que permite automatizar las pruebas a los servicios 
+REST, incluso remplazando al software Postman
+
+2.- Una ventaja muy practica de usar Karate es que tambien se puede hacer comparaciones con el mensaje de 
+salida
+
+3.- Se puede configurar Hilos para procesar en paralelos de servicios, el cual puede servir como una prueba
+de performance
